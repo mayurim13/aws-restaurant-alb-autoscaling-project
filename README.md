@@ -101,7 +101,9 @@ Rules configured:
 | HTTP | 80 |
 | SSH | 22 |
 
-![Security Groups](screenshots/security-groups.png)
+![Security Groups](screenshots/alb-security-group.png)
+
+![Security Groups](screenshots/ec2-security-group.png)
 
 ---
 
